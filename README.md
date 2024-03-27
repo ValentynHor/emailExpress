@@ -22,6 +22,3 @@ Das ist ein Microservice, der entwickelt wurde, um den E-Mail-Versand in einer v
 - Actuator
 - Scheduling
 - Logging
-- JUnit
-
-
