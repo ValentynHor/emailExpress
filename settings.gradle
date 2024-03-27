@@ -1,0 +1,9 @@
+rootProject.name = 'emailExpress'
+
+include 'worker'
+include 'clientAPI'
+include 'miscellaneous:data'
+include 'miscellaneous:store'
+
+
+
